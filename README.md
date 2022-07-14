@@ -19,6 +19,20 @@ Main.java cointains all the major code and Heap.java contains heap implementatio
 > Knowledge of data structures like Graph and Heap and Algorithms like Dijkstra, BFS, DFS, etc is appreciated, however, it is not essential.
 > And lastly, some understanding of the Collection framework makes it a cakewalk journey. (If you don't know about the Collection framework it is not a                   problem, you can proceed without it and while working if you feel the need to know you can refer to https://www.geeksforgeeks.org/collections-in-java-2/ ).
 
+Screenshots: 
+
+![Screenshot 2022-07-14 190514](https://user-images.githubusercontent.com/74129246/179031112-ba548d9f-c461-472d-a7e4-6ec22104a6e4.png)
+
+
+![Screenshot 2022-07-14 190636](https://user-images.githubusercontent.com/74129246/179031165-d8df7424-4765-465e-ba38-cfc00f389df6.png)
+
+
+![Screenshot 2022-07-14 215417](https://user-images.githubusercontent.com/74129246/179031213-b2133d07-2491-465b-aa3d-7508563d1d1f.png)
+
+
+![Screenshot 2022-07-14 215417](https://user-images.githubusercontent.com/74129246/179031265-94607ffa-c611-4f8b-9ef6-5677d5516721.png)
+
+
 
 ## That was all... You are all set to work on the project!!!!  
 	
