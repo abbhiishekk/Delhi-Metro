@@ -34,5 +34,5 @@ Screenshots:
 
 
 
-## That was all... You are all set to work on the project!!!!  
+## That was all!!!!  
 	
